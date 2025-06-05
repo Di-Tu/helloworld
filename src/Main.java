@@ -10,6 +10,6 @@ public class Main {
         System.out.println("  Как здоровье?");
         System.out.println("Всё хорошо!");
         System.out.println("Как твоя семья?");
-        System.out.println("Все здоровы, всё хорошо.");
+        System.out.println("Все здоровы, всё хорошо. ");
     }
 }
